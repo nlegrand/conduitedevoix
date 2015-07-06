@@ -1,4 +1,4 @@
-Conduite de voix is an attempt to exercise on four voice harmony with
+Conduite de voix is an attempt to exercise on four voices harmony with
 Lilypond.
 
 Usage
